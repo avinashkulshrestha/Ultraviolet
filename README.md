@@ -55,7 +55,7 @@ Installation of Ultraviolet is simple. You can find a Tl;DR of the installation 
 ## Basic Guide
 
 ```sh
-$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node --recursive
+$ git clone https://github.com/avinashkulshrestha/Ultraviolet-Node --recursive
 $ cd Ultraviolet-Node
 $ npm install
 $ npm start
